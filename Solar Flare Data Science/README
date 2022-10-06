@@ -1,0 +1,11 @@
+Solar Flare Data Science project for CMSC320 Intro to Data Science. 
+This project was written in Python using Pandas within a Jupyter Notebook. 
+
+In this project, we were given two copies of websites we were supposed to pull data from 
+and compare against one another; then we were asked to answer three questions which you will 
+see at the bottom of the file.
+
+This was my first experience in data science, and it 
+was what pulled me to specialize my degree in Data Science.
+
+It is given in 3 different formats: HTML, PDF, and ipynb for whichever one is most convenient for you to observe. 
