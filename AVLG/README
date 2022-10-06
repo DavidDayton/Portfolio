@@ -1,0 +1,4 @@
+AVL-G Project for CMSC420 Advanced Data Structures. 
+This project was writen in Java and the project was to create a generic typed AVL-G Tree.
+
+I did not write the exceptions that are within the exceptions folder, those were provided.
