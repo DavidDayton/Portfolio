@@ -1,0 +1,7 @@
+Interpreter Project for CMSC330 Organization of Programming Languages. 
+Written in OCaml.
+
+In this project, I created a lexer, parser, and interpreter within OCaml for a 
+smaller, more limited version of OCaml they called MicroCaml. 
+The three files I worked on were lexer.ml, parser.ml, and eval.ml. The rest of the files within the zipped folder was provided to us 
+as a part of the project, and I have given them to you for context. 
